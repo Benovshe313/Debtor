@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\Debt\Debt\obj\Debug\net8.0\Debtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Debt\Debt\obj\Debug\net8.0\Debtor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Debt\Debt\obj\Debug\net8.0\Debtor.AssemblyInfo.cs
+C:\Users\User\source\repos\Debt\Debt\obj\Debug\net8.0\Debtor.csproj.CoreCompileInputs.cache

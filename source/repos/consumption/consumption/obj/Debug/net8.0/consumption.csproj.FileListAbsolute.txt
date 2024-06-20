@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\consumption\consumption\bin\Debug\net8.0\consumption.exe
+C:\Users\User\source\repos\consumption\consumption\bin\Debug\net8.0\consumption.deps.json
+C:\Users\User\source\repos\consumption\consumption\bin\Debug\net8.0\consumption.runtimeconfig.json
+C:\Users\User\source\repos\consumption\consumption\bin\Debug\net8.0\consumption.dll
+C:\Users\User\source\repos\consumption\consumption\bin\Debug\net8.0\consumption.pdb
+C:\Users\User\source\repos\consumption\consumption\obj\Debug\net8.0\consumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\consumption\consumption\obj\Debug\net8.0\consumption.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\consumption\consumption\obj\Debug\net8.0\consumption.AssemblyInfo.cs
+C:\Users\User\source\repos\consumption\consumption\obj\Debug\net8.0\consumption.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\consumption\consumption\obj\Debug\net8.0\consumption.dll
+C:\Users\User\source\repos\consumption\consumption\obj\Debug\net8.0\refint\consumption.dll
+C:\Users\User\source\repos\consumption\consumption\obj\Debug\net8.0\consumption.pdb
+C:\Users\User\source\repos\consumption\consumption\obj\Debug\net8.0\consumption.genruntimeconfig.cache
+C:\Users\User\source\repos\consumption\consumption\obj\Debug\net8.0\ref\consumption.dll
